@@ -1,15 +1,32 @@
-# Elysia with Bun runtime
+# Fun API Services
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+โปรเจกต์รวม API ขำ ๆ สร้างแก้เหงา (Side Project) ด้วย **ElysiaJS**
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+## Features ที่เปิดใช้งานแล้ว
 
-Open http://localhost:3000/ with your browser to see the result.
+### Is it Friday ?
+
+บริการเช็คว่าวันที่คุณต้องการ (หรือวันนี้) คือวันศุกร์ที่รอคอยหรือไม่
+
+- **Endpoint:** `/is-friday`
+- **Method:** `GET`
+- **Query Parameters:**
+  - `date`: (Optional) วันที่ที่ต้องการตรวจสอบในรูปแบบ Date String (เช่น `2025-05-30`)
+- **Response:**
+  - `result`: `true` (ถ้าเป็นวันศุกร์) หรือ `false` (ถ้าไม่ใช่)
+- **Try Now**: <http://wwdev-fun-apis.vercel.app/is-friday>
+
+---
+
+## Upcoming Ideas (Roadmap)
+
+[ ] 🐱 Philosophurr: สุ่มรูปแมวพร้อมคำคมกาว ๆ
+
+[ ] 💻 Developer Excuse: สุ่มคำแก้ตัวเวลาทำ Code พัง
+
+[ ] 🐟 JSON Fish Source: เปลี่ยน Key ของ JSON ให้เป็นส่วนประกอบของน้ำปลา
+
+## License
+
+MIT
+

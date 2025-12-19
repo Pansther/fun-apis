@@ -1,6 +1,9 @@
 {
   "name": "free-api",
-  "version": "1.0.50",
+  "author": "Pansther",
+  "repository": "Pansther/fun-apis",
+  "version": "0.1.0",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "bun run --watch src/index.ts"
