@@ -1,0 +1,596 @@
+[
+  {
+    "id": 2000,
+    "category": "quantum",
+    "en": "Schrödinger's Bug: The code is both working and broken until you observe it.",
+    "th": "บั๊กของชโรดิงเจอร์ครับ โค้ดมันทั้งรันได้และพังไปพร้อมๆ กัน จนกว่าพี่จะเปิดดู"
+  },
+  {
+    "id": 2001,
+    "category": "thermodynamics",
+    "en": "The entropy of the system has reached a maximum; I'm just following the second law.",
+    "th": "เอนโทรปีของระบบถึงจุดสูงสุดแล้วครับ ผมก็แค่ทำตามกฎข้อที่สองของเทอร์โมไดนามิกส์"
+  },
+  {
+    "id": 2002,
+    "category": "astrophysics",
+    "en": "Dark matter is interfering with the database's gravitational pull.",
+    "th": "สสารมืดกำลังรบกวนแรงโน้มถ่วงของฐานข้อมูลอยู่ครับ"
+  },
+  {
+    "id": 2003,
+    "category": "physics",
+    "en": "The bug only exists in a frictionless vacuum.",
+    "th": "บั๊กนี้จะมีตัวตนแค่ในสภาวะสุญญากาศที่ไม่มีแรงเสียดทานเท่านั้นแหละ"
+  },
+  {
+    "id": 2004,
+    "category": "quantum",
+    "en": "It’s a quantum tunneling effect; the data moved through the firewall without permission.",
+    "th": "ปรากฏการณ์อุโมงค์ควอนตัมครับ ข้อมูลมันมุดทะลุไฟร์วอลล์ไปโดยไม่ได้ขออนุญาต"
+  },
+  {
+    "id": 2005,
+    "category": "relativity",
+    "en": "Time dilation occurred; for me it was working, but for you it already expired.",
+    "th": "เกิดการยืดออกของเวลาครับ สำหรับผมมันยังใช้ได้ แต่สำหรับพี่มันหมดอายุไปแล้ว"
+  },
+  {
+    "id": 2006,
+    "category": "particle_physics",
+    "en": "A stray neutrino must have flipped a bit in the production server.",
+    "th": "อนุภาคนิวตริโนคงจะพุ่งชนแล้วทำให้ Bit ในเครื่อง Production มัน Flip ครับ"
+  },
+  {
+    "id": 2007,
+    "category": "chaos_theory",
+    "en": "The butterfly effect: a developer in Brazil saved a file, and my code crashed here.",
+    "th": "ทฤษฎีผีเสื้อขยับปีกครับ มี Dev ที่บราซิลเซฟไฟล์ แล้วโค้ดผมที่นี่เลยพัง"
+  },
+  {
+    "id": 2008,
+    "category": "astrophysics",
+    "en": "The server is currently inside the event horizon of a localized black hole.",
+    "th": "ตอนนี้เซิร์ฟเวอร์ติดอยู่ในขอบฟ้าเหตุการณ์ของหลุมดำจำลองครับ"
+  },
+  {
+    "id": 2009,
+    "category": "quantum",
+    "en": "Heisenberg Uncertainty Principle: If I find the bug, I lose its location in memory.",
+    "th": "หลักความไม่แน่นอนของไฮเซนเบิร์กครับ ถ้าผมหาตัวบั๊กเจอ ผมจะลืมตำแหน่งเมมโมรี่ของมัน"
+  },
+  {
+    "id": 2010,
+    "category": "string_theory",
+    "en": "It works perfectly in 10 other dimensions; you're just looking at the wrong one.",
+    "th": "ในมิติอื่นอีก 10 มิติมันทำงานได้สมบูรณ์แบบครับ พี่แค่กำลังดูผิดมิติ"
+  },
+  {
+    "id": 2011,
+    "category": "biology",
+    "en": "The code has evolved into a life form and is now refusing to be compiled.",
+    "th": "โค้ดมันวิวัฒนาการเป็นสิ่งมีชีวิตไปแล้วครับ แล้วตอนนี้มันก็ไม่ยอมโดน Compile ด้วย"
+  },
+  {
+    "id": 2012,
+    "category": "mechanics",
+    "en": "The centrifugal force of the hard drive is spinning the data too fast.",
+    "th": "แรงเหวี่ยงจากศูนย์กลางของฮาร์ดดิสก์มันหมุนข้อมูลเร็วเกินไปจนอ่านไม่ทัน"
+  },
+  {
+    "id": 2013,
+    "category": "astronomy",
+    "en": "Mercury is in retrograde, affecting all silicon-based logic.",
+    "th": "ดาวพุธถอยหลังครับ ส่งผลกระทบต่อตรรกะที่ใช้ซิลิคอนเป็นพื้นฐานทั้งหมด"
+  },
+  {
+    "id": 2014,
+    "category": "chemistry",
+    "en": "The database connection reached its boiling point and evaporated.",
+    "th": "การเชื่อมต่อฐานข้อมูลถึงจุดเดือดแล้วระเหยกลายเป็นไอไปหมดแล้วครับ"
+  },
+  {
+    "id": 2015,
+    "category": "optics",
+    "en": "It’s a visual refraction; the UI only looks broken from your angle.",
+    "th": "มันคือการหักเหของแสงครับ UI มันดูพังแค่จากมุมที่พี่มองเท่านั้นแหละ"
+  },
+  {
+    "id": 2016,
+    "category": "quantum",
+    "en": "The code is in a state of quantum entanglement with another broken project.",
+    "th": "โค้ดนี้มันติดสภาวะพัวพันทางควอนตัมกับอีกโปรเจกต์ที่พังอยู่ครับ"
+  },
+  {
+    "id": 2017,
+    "category": "nuclear_physics",
+    "en": "The logic underwent spontaneous fission and split into two errors.",
+    "th": "ตรรกะมันเกิดการนิวเคลียร์ฟิชชันฉับพลันแล้วแยกออกเป็น 2 Error ครับ"
+  },
+  {
+    "id": 2018,
+    "category": "geology",
+    "en": "Tectonic shifts in the server room caused a misalignment of the pointers.",
+    "th": "การเคลื่อนที่ของแผ่นเปลือกโลกในห้องเซิร์ฟเวอร์ทำให้พอยเตอร์มันไม่ตรงกัน"
+  },
+  {
+    "id": 2019,
+    "category": "acoustics",
+    "en": "The server fan's frequency is canceling out the data transmission wave.",
+    "th": "ความถี่ของพัดลมเซิร์ฟเวอร์มันไปหักล้างคลื่นการส่งข้อมูลพอดีครับ"
+  },
+  {
+    "id": 2020,
+    "category": "physics",
+    "en": "The code has zero mass, so it's floating away from the CPU.",
+    "th": "โค้ดมันไม่มีมวลครับ มันเลยลอยห่างออกจาก CPU ไปเรื่อยๆ"
+  },
+  {
+    "id": 2021,
+    "category": "thermodynamics",
+    "en": "The heat death of the universe is starting from this specific function.",
+    "th": "ภาวะการตายด้วยความร้อนของจักรวาลมันเริ่มขึ้นจากฟังก์ชันนี้แหละครับ"
+  },
+  {
+    "id": 2022,
+    "category": "electromagnetism",
+    "en": "Static electricity from your sweater is corrupting the JSON packet.",
+    "th": "ไฟฟ้าสถิตจากเสื้อไหมพรมพี่นั่นแหละที่ทำให้ไฟล์ JSON มันพัง"
+  },
+  {
+    "id": 2023,
+    "category": "cosmology",
+    "en": "The expansion of the universe is making the network latency infinite.",
+    "th": "การขยายตัวของเอกภพทำให้ความหน่วงของเครือข่ายกลายเป็นอนันต์"
+  },
+  {
+    "id": 2024,
+    "category": "fluid_dynamics",
+    "en": "The data stream encountered turbulence and became non-laminar.",
+    "th": "กระแสข้อมูลเจอสภาวะปั่นป่วนจนไหลไม่เป็นระเบียบครับ"
+  },
+  {
+    "id": 2025,
+    "category": "quantum",
+    "en": "The bug is a virtual particle; it pops in and out of existence randomly.",
+    "th": "บั๊กนี้เป็นอนุภาคเสมือนครับ มันโผล่มาแล้วก็หายไปเองแบบสุ่ม"
+  },
+  {
+    "id": 2026,
+    "category": "astrophysics",
+    "en": "A nearby supernova disrupted the production environment.",
+    "th": "มีซูเปอร์โนวาแถวนี้รบกวนสภาพแวดล้อมของเครื่อง Production ครับ"
+  },
+  {
+    "id": 2027,
+    "category": "mathematics",
+    "en": "The logic is correct in Non-Euclidean geometry.",
+    "th": "ตรรกะนี้ถูกต้องครับ ถ้าเราใช้เรขาคณิตนอกแบบยุคลิด"
+  },
+  {
+    "id": 2028,
+    "category": "relativity",
+    "en": "We are moving too fast; the code's length contracted to zero.",
+    "th": "เราเคลื่อนที่เร็วเกินไปจนความยาวของโค้ดหดสั้นลงจนกลายเป็นศูนย์"
+  },
+  {
+    "id": 2029,
+    "category": "genetics",
+    "en": "The code has a recessive bug gene that only manifests today.",
+    "th": "โค้ดมีบั๊กแฝงในยีนด้อยครับ ซึ่งมันดันมาแสดงผลวันนี้พอดี"
+  },
+  {
+    "id": 2030,
+    "category": "meteorology",
+    "en": "High humidity is slowing down the electrons in the WiFi.",
+    "th": "ความชื้นสูงทำให้พวกอิเล็กตรอนใน WiFi มันวิ่งช้าลงครับ"
+  },
+  {
+    "id": 2031,
+    "category": "physics",
+    "en": "The code is stuck in a frictionless loop.",
+    "th": "โค้ดมันติดอยู่ในลูปที่ไม่มีแรงเสียดทานครับ"
+  },
+  {
+    "id": 2032,
+    "category": "quantum",
+    "en": "The observer effect: the code only fails when you watch it.",
+    "th": "ปรากฏการณ์ผู้สังเกตครับ โค้ดมันจะพังเฉพาะเวลาพี่จ้องมันเท่านั้นแหละ"
+  },
+  {
+    "id": 2033,
+    "category": "astrophysics",
+    "en": "The database is currently experiencing a solar eclipse.",
+    "th": "ตอนนี้ฐานข้อมูลกำลังเกิดสุริยุปราคาอยู่ครับ"
+  },
+  {
+    "id": 2034,
+    "category": "thermodynamics",
+    "en": "Thermal noise in the RAM is generating random variables.",
+    "th": "สัญญาณรบกวนจากความร้อนใน RAM ทำให้เกิดตัวแปรแบบสุ่มครับ"
+  },
+  {
+    "id": 2035,
+    "category": "neuroscience",
+    "en": "The AI's synaptic weights are having a migraine.",
+    "th": "เส้นประสาทจำลองของ AI กำลังเป็นไมเกรนครับ"
+  },
+  {
+    "id": 2036,
+    "category": "physics",
+    "en": "The bug is at the Planck scale; it's too small to fix.",
+    "th": "บั๊กมันอยู่ที่ระดับสเกลของพลังค์ครับ เล็กเกินกว่าจะแก้ได้"
+  },
+  {
+    "id": 2037,
+    "category": "botany",
+    "en": "The server's carbon footprint is too large, causing logic smog.",
+    "th": "รอยเท้าคาร์บอนของเซิร์ฟเวอร์ใหญ่เกินไป จนเกิดหมอกควันทางตรรกะ"
+  },
+  {
+    "id": 2038,
+    "category": "chemistry",
+    "en": "The code reacted with oxygen and oxidized into a bug.",
+    "th": "โค้ดทำปฏิกิริยากับออกซิเจนจนกลายเป็นบั๊กไปแล้วครับ"
+  },
+  {
+    "id": 2039,
+    "category": "paleontology",
+    "en": "This is a fossilized bug from the Jurassic version of the app.",
+    "th": "นี่คือซากฟอสซิลบั๊กจากแอปเวอร์ชันยุคจูราสสิกครับ"
+  },
+  {
+    "id": 2040,
+    "category": "astrophysics",
+    "en": "The CPU is emitting Hawking radiation.",
+    "th": "ตอนนี้ CPU กำลังแผ่รังสีฮอว์คิงออกมาครับ"
+  },
+  {
+    "id": 2041,
+    "category": "quantum",
+    "en": "The data is in a state of flux between 0 and 1.",
+    "th": "ข้อมูลอยู่ในสภาวะผันผวนระหว่าง 0 กับ 1 ครับ"
+  },
+  {
+    "id": 2042,
+    "category": "relativity",
+    "en": "E=mc^2, so my code is actually pure energy right now.",
+    "th": "ตามกฎ E=mc^2 ตอนนี้โค้ดของผมเปลี่ยนสภาพเป็นพลังงานบริสุทธิ์ไปแล้วครับ"
+  },
+  {
+    "id": 2043,
+    "category": "mechanics",
+    "en": "The gear ratio of the internal clock is misaligned.",
+    "th": "อัตราทดเฟืองของนาฬิกาภายในมันไม่ตรงกันครับ"
+  },
+  {
+    "id": 2044,
+    "category": "biology",
+    "en": "The script is currently undergoing mitosis.",
+    "th": "สคริปต์กำลังอยู่ในช่วงแบ่งเซลล์แบบไมโทซิสครับ"
+  },
+  {
+    "id": 2045,
+    "category": "physics",
+    "en": "The code is experiencing anti-gravity.",
+    "th": "โค้ดกำลังเผชิญกับแรงต้านโน้มถ่วงครับ"
+  },
+  {
+    "id": 2046,
+    "category": "geology",
+    "en": "A seismic wave hit the router.",
+    "th": "มีคลื่นแผ่นดินไหวพุ่งชนเราเตอร์ครับ"
+  },
+  {
+    "id": 2047,
+    "category": "thermodynamics",
+    "en": "The cooling system is too efficient, freezing the data packets.",
+    "th": "ระบบหล่อเย็นดีเกินไป จนทำให้แพ็กเกจข้อมูลแข็งตัวครับ"
+  },
+  {
+    "id": 2048,
+    "category": "quantum",
+    "en": "The bug is entangled with the CEO's mood.",
+    "th": "บั๊กตัวนี้มันพัวพันทางควอนตัมกับอารมณ์ของ CEO ครับ"
+  },
+  {
+    "id": 2049,
+    "category": "astrophysics",
+    "en": "Cosmic strings are tangling the network cables.",
+    "th": "เส้นเชือกแห่งจักรวาลกำลังทำสายแลนพันกันครับ"
+  },
+  {
+    "id": 2050,
+    "category": "physics",
+    "en": "The code's momentum is too high to stop it at the breakpoint.",
+    "th": "โมเมนตัมของโค้ดสูงเกินไปจนหยุดตรงจุด Breakpoint ไม่ได้"
+  },
+  {
+    "id": 2051,
+    "category": "relativity",
+    "en": "Length contraction shortened the array to zero.",
+    "th": "การหดสั้นของความยาวทำให้ Array หดเหลือศูนย์ครับ"
+  },
+  {
+    "id": 2052,
+    "category": "quantum",
+    "en": "A wave-function collapse destroyed the user session.",
+    "th": "การยุบตัวของฟังก์ชันคลื่นทำลาย Session ของยูสเซอร์ไปแล้วครับ"
+  },
+  {
+    "id": 2053,
+    "category": "astronomy",
+    "en": "The data is being pulled by a Great Attractor.",
+    "th": "ข้อมูลกำลังโดนดึงดูดโดยมหาดึงดูด (Great Attractor) ครับ"
+  },
+  {
+    "id": 2054,
+    "category": "chemistry",
+    "en": "The algorithm is currently inert.",
+    "th": "อัลกอริทึมอยู่ในสภาวะเฉื่อยชา (Inert) ทางเคมีครับ"
+  },
+  {
+    "id": 2055,
+    "category": "biology",
+    "en": "The code has a viral infection.",
+    "th": "โค้ดติดเชื้อไวรัสทางชีวภาพครับ"
+  },
+  {
+    "id": 2056,
+    "category": "physics",
+    "en": "The bug is a singularity; its density is infinite.",
+    "th": "บั๊กนี้คือภาวะเอกฐานครับ ความหนาแน่นมันเป็นอนันต์"
+  },
+  {
+    "id": 2057,
+    "category": "astrophysics",
+    "en": "Pulsar interference is messing with the bit-rate.",
+    "th": "การรบกวนจากดาวพัลซาร์ทำให้บิตเรตเพี้ยนครับ"
+  },
+  {
+    "id": 2058,
+    "category": "thermodynamics",
+    "en": "Isothermal expansion caused the database to leak.",
+    "th": "การขยายตัวแบบอุณหภูมิคงที่ทำให้ฐานข้อมูลรั่วครับ"
+  },
+  {
+    "id": 2059,
+    "category": "quantum",
+    "en": "I’ve discovered a new state of matter: 'The Broken Code'.",
+    "th": "ผมค้นพบสถานะใหม่ของสสารครับ ชื่อว่า 'โค้ดพัง'"
+  },
+  {
+    "id": 2060,
+    "category": "mathematics",
+    "en": "The bug is an imaginary number.",
+    "th": "บั๊กตัวนี้คือจำนวนจินตภาพครับ"
+  },
+  {
+    "id": 2061,
+    "category": "physics",
+    "en": "The code is undergoing a phase transition into a liquid state.",
+    "th": "โค้ดกำลังเปลี่ยนสถานะกลายเป็นของเหลวครับ"
+  },
+  {
+    "id": 2062,
+    "category": "relativity",
+    "en": "The server is moving at relativistic speeds.",
+    "th": "เซิร์ฟเวอร์กำลังเคลื่อนที่ด้วยความเร็วสัมพัทธภาพ"
+  },
+  {
+    "id": 2063,
+    "category": "astrophysics",
+    "en": "The data is stuck in a wormhole to 1995.",
+    "th": "ข้อมูลหลุดเข้าไปในรูหนอนที่เชื่อมไปยังปี 1995 ครับ"
+  },
+  {
+    "id": 2064,
+    "category": "biology",
+    "en": "The bug has developed natural immunity to my fixes.",
+    "th": "บั๊กมันสร้างภูมิคุ้มกันตามธรรมชาติต่อการแก้โค้ดของผมไปแล้ว"
+  },
+  {
+    "id": 2065,
+    "category": "quantum",
+    "en": "The code is using non-local communication.",
+    "th": "โค้ดกำลังใช้การสื่อสารแบบ Non-local (ไม่ยึดติดตำแหน่ง)"
+  },
+  {
+    "id": 2066,
+    "category": "thermodynamics",
+    "en": "The CPU exceeded the Bekenstein bound.",
+    "th": "CPU รันเกินขีดจำกัดเบเกนสไตน์ไปแล้วครับ"
+  },
+  {
+    "id": 2067,
+    "category": "physics",
+    "en": "Kinetic energy converted the characters to heat.",
+    "th": "พลังงานจลน์เปลี่ยนตัวอักษรในโค้ดให้กลายเป็นความร้อนไปหมดแล้ว"
+  },
+  {
+    "id": 2068,
+    "category": "astronomy",
+    "en": "A meteor shower is blocking the satellite link.",
+    "th": "ฝนดาวตกกำลังบังลานดาวเทียมอยู่ครับ"
+  },
+  {
+    "id": 2069,
+    "category": "geology",
+    "en": "The database is under high pressure and turned into a diamond.",
+    "th": "ฐานข้อมูลอยู่ภายใต้ความดันสูงจนกลายเป็นเพชรไปแล้ว (แก้ไม่ได้)"
+  },
+  {
+    "id": 2070,
+    "category": "quantum",
+    "en": "The bug is a Cooper pair; it only moves with another bug.",
+    "th": "บั๊กนี้เป็นคู่คูเปอร์ครับ มันจะขยับก็ต่อเมื่อมีบั๊กอีกตัวมาคู่กัน"
+  },
+  {
+    "id": 2071,
+    "category": "physics",
+    "en": "The code hit a potential barrier it couldn't overcome.",
+    "th": "โค้ดไปเจอกำแพงศักย์ที่มันข้ามไปไม่ได้ครับ"
+  },
+  {
+    "id": 2072,
+    "category": "astrophysics",
+    "en": "Tidal forces from the moon are stretching the logs.",
+    "th": "แรงไทดัลจากดวงจันทร์กำลังยืดไฟล์ Log ของเราอยู่ครับ"
+  },
+  {
+    "id": 2073,
+    "category": "biology",
+    "en": "The algorithm is in a state of hibernation.",
+    "th": "ตอนนี้อัลกอริทึมอยู่ในช่วงจำศีลครับ"
+  },
+  {
+    "id": 2074,
+    "category": "chemistry",
+    "en": "The variable names are too acidic.",
+    "th": "ชื่อตัวแปรพวกนี้มีความเป็นกรดสูงเกินไป"
+  },
+  {
+    "id": 2075,
+    "category": "optics",
+    "en": "The screen has a total internal reflection of the error.",
+    "th": "หน้าจอมันเกิดการสะท้อนกลับหมดของ Error ครับ"
+  },
+  {
+    "id": 2076,
+    "category": "mathematics",
+    "en": "The bug is a fractal; the more you zoom, the more bugs you see.",
+    "th": "บั๊กนี้เป็นแฟร็กทัลครับ ยิ่งซูมแก้ ยิ่งเจอบั๊กซ้อนข้างใน"
+  },
+  {
+    "id": 2077,
+    "category": "physics",
+    "en": "The code reached absolute zero and stopped moving.",
+    "th": "โค้ดมันเย็นลงถึงจุดศูนย์สัมบูรณ์จนมันหยุดนิ่งไปแล้วครับ"
+  },
+  {
+    "id": 2078,
+    "category": "quantum",
+    "en": "The data is currently in a superposition of saved and unsaved.",
+    "th": "ข้อมูลอยู่ในสถานะซ้อนทับระหว่าง 'เซฟแล้ว' กับ 'ยังไม่ได้เซฟ'"
+  },
+  {
+    "id": 2079,
+    "category": "astrophysics",
+    "en": "The server's world line is intersecting with a dead end.",
+    "th": "เส้นโลกของเซิร์ฟเวอร์มันไปตัดกับจุดตันพอดีครับ"
+  },
+  {
+    "id": 2080,
+    "category": "thermodynamics",
+    "en": "The logic is violating the zeroth law.",
+    "th": "ตรรกะนี้กำลังละเมิดกฎข้อที่ศูนย์อยู่ครับ"
+  },
+  {
+    "id": 2081,
+    "category": "biology",
+    "en": "The code is experiencing a circadian rhythm disruption.",
+    "th": "โค้ดกำลังเจอภาวะนาฬิกาชีวิตรวนครับ"
+  },
+  {
+    "id": 2082,
+    "category": "physics",
+    "en": "The bug is a tachyon; it happened before I wrote the code.",
+    "th": "บั๊กนี้เป็นทาคีออนครับ มันเกิดขึ้นก่อนที่ผมจะเขียนโค้ดซะอีก"
+  },
+  {
+    "id": 2083,
+    "category": "relativity",
+    "en": "Mass-energy equivalence turned the bug into a feature.",
+    "th": "ความเท่ากันของมวลและพลังงานเปลี่ยนบั๊กให้กลายเป็นฟีเจอร์ไปแล้ว"
+  },
+  {
+    "id": 2084,
+    "category": "quantum",
+    "en": "The code is using a non-deterministic quantum path.",
+    "th": "โค้ดกำลังใช้เส้นทางควอนตัมแบบที่พยากรณ์ไม่ได้"
+  },
+  {
+    "id": 2085,
+    "category": "astronomy",
+    "en": "A solar wind blew away the metadata.",
+    "th": "ลมสุริยะพัดพา Metadata หายไปหมดแล้วครับ"
+  },
+  {
+    "id": 2086,
+    "category": "chemistry",
+    "en": "The data crystallized into an unreadable solid.",
+    "th": "ข้อมูลมันตกผลึกกลายเป็นของแข็งที่อ่านไม่ออกไปแล้ว"
+  },
+  {
+    "id": 2087,
+    "category": "physics",
+    "en": "The bug is a cosmic string fragment.",
+    "th": "บั๊กนี้คือเศษซากของเส้นเชือกคอสมิกครับ"
+  },
+  {
+    "id": 2089,
+    "category": "meteorology",
+    "en": "A microburst in the server room flipped the bits.",
+    "th": "เกิดลมพัดสอบรุนแรงในห้องเซิร์ฟเวอร์จนบิตมันพลิก"
+  },
+  {
+    "id": 2090,
+    "category": "quantum",
+    "en": "The code is in the middle of a quantum jump.",
+    "th": "โค้ดกำลังอยู่ระหว่างการกระโดดทางควอนตัม"
+  },
+  {
+    "id": 2091,
+    "category": "astrophysics",
+    "en": "The redshift of the API response means it's moving away from us.",
+    "th": "การเลื่อนทางแดงของ API หมายความว่ามันกำลังห่างออกจากเราไปเรื่อยๆ"
+  },
+  {
+    "id": 2092,
+    "category": "biology",
+    "en": "The code is undergoing natural selection.",
+    "th": "โค้ดกำลังอยู่ในกระบวนการคัดเลือกโดยธรรมชาติ"
+  },
+  {
+    "id": 2093,
+    "category": "physics",
+    "en": "The bug is a macroscopic quantum effect.",
+    "th": "บั๊กนี้เป็นผลกระทบควอนตัมในระดับมหภาคครับ"
+  },
+  {
+    "id": 2094,
+    "category": "mathematics",
+    "en": "The bug exists only in the set of all sets that don't contain themselves.",
+    "th": "บั๊กนี้มีอยู่เฉพาะในเซตของเซตทั้งหมดที่ไม่มีตัวเองเป็นสมาชิกเท่านั้น"
+  },
+  {
+    "id": 2095,
+    "category": "thermodynamics",
+    "en": "The system is in a state of thermal equilibrium with the error.",
+    "th": "ระบบอยู่ในสภาวะสมดุลความร้อนกับตัว Error ไปแล้ว"
+  },
+  {
+    "id": 2096,
+    "category": "physics",
+    "en": "The code is trapped in a multi-dimensional Calabi-Yau manifold.",
+    "th": "โค้ดติดอยู่ในท่อมานิโฟลด์คาลาบิ-เหยา หลายมิติครับ"
+  },
+  {
+    "id": 2097,
+    "category": "quantum",
+    "en": "The bug is a Bell's inequality violation.",
+    "th": "บั๊กนี้เป็นการละเมิดอสมการของเบลล์ครับ"
+  },
+  {
+    "id": 2098,
+    "category": "astrophysics",
+    "en": "The server's core is becoming a neutron star.",
+    "th": "แกนกลางเซิร์ฟเวอร์กำลังจะกลายเป็นดาวนิวตรอนครับ"
+  },
+  {
+    "id": 2099,
+    "category": "science",
+    "en": "The experiment is a success: we've proven the code can fail.",
+    "th": "การทดลองประสบความสำเร็จครับ เราพิสูจน์แล้วว่าโค้ดสามารถพังได้จริง"
+  }
+]

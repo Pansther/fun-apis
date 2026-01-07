@@ -9,6 +9,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@elysiajs/openapi": "^1.4.13",
     "dayjs": "^1.11.19",
     "elysia": "latest"
   },

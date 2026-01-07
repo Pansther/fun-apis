@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1000,
+    "category": "machine",
+    "en": "It works on my machine.",
+    "th": "บนเครื่องผมมันก็รันปกตินะ"
+  },
+  {
+    "id": 1001,
+    "category": "hardware",
+    "en": "It must be a hardware issue.",
+    "th": "น่าจะเป็นปัญหาที่ฮาร์ดแวร์แล้วแหละ"
+  },
+  {
+    "id": 1002,
+    "category": "environment",
+    "en": "Which version of the browser are you using?",
+    "th": "พี่ใช้ Browser เวอร์ชันไหนเนี่ย?"
+  },
+  {
+    "id": 1003,
+    "category": "environment",
+    "en": "It’s a configuration error on your side.",
+    "th": "พี่ตั้งค่าเครื่องพี่ผิดหรือเปล่า?"
+  },
+  {
+    "id": 1004,
+    "category": "git",
+    "en": "I forgot to commit the fix.",
+    "th": "อ๋อ ลืมกด Commit ตัวที่แก้แล้วขึ้นไปน่ะ"
+  },
+  {
+    "id": 1005,
+    "category": "environment",
+    "en": "Did you clear your cache?",
+    "th": "ลบ Cache หรือยังครับ?"
+  },
+  {
+    "id": 1006,
+    "category": "demo",
+    "en": "It ran fine during the demo!",
+    "th": "ตอนเดโมยังดี ๆ อยู่เลย!"
+  },
+  {
+    "id": 1007,
+    "category": "environment",
+    "en": "Something must have changed in the environment.",
+    "th": "สภาพแวดล้อมระบบต้องมีอะไรเปลี่ยนไปแน่ ๆ"
+  },
+  {
+    "id": 1008,
+    "category": "debug",
+    "en": "I can’t reproduce it.",
+    "th": "ผมจำลองบั๊กนี้ขึ้นมาใหม่ไม่ได้"
+  },
+  {
+    "id": 1009,
+    "category": "user",
+    "en": "You’re using it wrong.",
+    "th": "พี่ใช้งานมันผิดวิธีเองแหละ"
+  },
+  {
+    "id": 1010,
+    "category": "feature",
+    "en": "That’s not a bug, it’s an undocumented feature.",
+    "th": "นี่ไม่ใช่บั๊ก แต่มันคือฟีเจอร์ที่ยังไม่ได้เขียนคู่มือ"
+  },
+  {
+    "id": 1011,
+    "category": "feature",
+    "en": "It’s a feature I haven’t finished yet.",
+    "th": "มันคือฟีเจอร์ที่ผมยังทำไม่เสร็จ"
+  },
+  {
+    "id": 1012,
+    "category": "feature",
+    "en": "It’s supposed to do that.",
+    "th": "มันถูกออกแบบมาให้เป็นแบบนั้นอยู่แล้ว"
+  },
+  {
+    "id": 1013,
+    "category": "user",
+    "en": "The user would never do that.",
+    "th": "ยูสเซอร์ทั่วไปเขาไม่กดแบบนั้นหรอกพี่"
+  },
+  {
+    "id": 1014,
+    "category": "feature",
+    "en": "It adds a layer of mystery to the app.",
+    "th": "มันช่วยเพิ่มความน่าค้นหาให้กับแอปเรานะ"
+  },
+  {
+    "id": 1015,
+    "category": "security",
+    "en": "It’s a security feature to keep users on their toes.",
+    "th": "เป็นฟีเจอร์ความปลอดภัย ให้คนใช้อย่าประมาท"
+  },
+  {
+    "id": 1016,
+    "category": "spec",
+    "en": "The specification was ambiguous.",
+    "th": "ก็ Spec มันเขียนมาไม่ชัดเจนอะ"
+  },
+  {
+    "id": 1017,
+    "category": "design",
+    "en": "That was a deliberate design choice.",
+    "th": "ผมตั้งใจดีไซน์ให้มันเป็นแบบนี้แหละ"
+  },
+  {
+    "id": 1018,
+    "category": "user",
+    "en": "It’s a stress test for the users.",
+    "th": "มันคือการทดสอบความอดทนของผู้ใช้งาน"
+  },
+  {
+    "id": 1019,
+    "category": "legacy",
+    "en": "That’s a legacy feature we decided to keep.",
+    "th": "มันคือฟีเจอร์โบราณที่เราอยากรักษาไว้"
+  },
+  {
+    "id": 1020,
+    "category": "external",
+    "en": "The internet is too slow for my code.",
+    "th": "เน็ตมันช้าเกินไปจน Code ผมตามไม่ทัน"
+  },
+  {
+    "id": 1021,
+    "category": "supernatural",
+    "en": "Solar flares must have flipped a bit.",
+    "th": "พายุสุริยะคงทำให้ข้อมูลใน RAM เพี้ยน"
+  },
+  {
+    "id": 1022,
+    "category": "supernatural",
+    "en": "I suspect a ghost in the server room.",
+    "th": "ผมสงสัยว่ามีผีในห้องเซิร์ฟเวอร์"
+  },
+  {
+    "id": 1023,
+    "category": "tools",
+    "en": "The compiler is broken.",
+    "th": "ตัวแปลงภาษาโปรแกรมมันพังแน่ ๆ"
+  },
+  {
+    "id": 1024,
+    "category": "api",
+    "en": "It’s a problem with the third-party API.",
+    "th": "เป็นปัญหาที่ API ของคนอื่นครับ"
+  },
+  {
+    "id": 1025,
+    "category": "excuse",
+    "en": "My cat walked over the keyboard.",
+    "th": "แมวผมเดินตัดหน้าคีย์บอร์ดน่ะ"
+  },
+  {
+    "id": 1026,
+    "category": "security",
+    "en": "I was hacked.",
+    "th": "ผมโดนแฮกครับพี่!"
+  },
+  {
+    "id": 1027,
+    "category": "human",
+    "en": "The coffee machine was broken, I couldn't think.",
+    "th": "เครื่องชงกาแฟพัง ผมเลยคิดไม่ออก"
+  },
+  {
+    "id": 1028,
+    "category": "supernatural",
+    "en": "Mercury is in retrograde.",
+    "th": "ดาวพุธโคจรถอยหลังครับ (ดวงไม่ดี)"
+  },
+  {
+    "id": 1029,
+    "category": "excuse",
+    "en": "Someone touched my code while I was sleeping.",
+    "th": "มีคนแอบมาแก้ Code ผมตอนหลับชัวร์"
+  },
+  {
+    "id": 1030,
+    "category": "logic",
+    "en": "It worked yesterday.",
+    "th": "เมื่อวานยังดี ๆ อยู่เลย"
+  },
+  {
+    "id": 1031,
+    "category": "process",
+    "en": "I’ll fix it in the next release.",
+    "th": "เดี๋ยวแก้ให้เวอร์ชันหน้านะ"
+  },
+  {
+    "id": 1032,
+    "category": "logic",
+    "en": "It’s a time-zone issue.",
+    "th": "เป็นปัญหาเรื่องเขตเวลา"
+  },
+  {
+    "id": 1033,
+    "category": "communication",
+    "en": "I was out of the loop on that change.",
+    "th": "ผมไม่รู้ว่ามีการเปลี่ยนอันนี้"
+  },
+  {
+    "id": 1034,
+    "category": "management",
+    "en": "The deadline was too tight.",
+    "th": "ก็พี่ให้เวลาน้อยไปอะ"
+  },
+  {
+    "id": 1035,
+    "category": "process",
+    "en": "I’m still refactoring that part.",
+    "th": "ผมกำลังรื้อโค้ดส่วนนั้นใหม่อยู่พอดี"
+  },
+  {
+    "id": 1036,
+    "category": "logic",
+    "en": "It's a race condition.",
+    "th": "มันเป็นปัญหาการแย่งชิงทรัพยากร"
+  },
+  {
+    "id": 1037,
+    "category": "management",
+    "en": "I was told to do it this way.",
+    "th": "ก็มีคนบอกให้ผมทำแบบนี้นี่นา"
+  },
+  {
+    "id": 1038,
+    "category": "testing",
+    "en": "It passed all the tests!",
+    "th": "แต่มันผ่าน Test ทุกตัวเลยนะ!"
+  },
+  {
+    "id": 1039,
+    "category": "data",
+    "en": "My code is fine, your data is bad.",
+    "th": "โค้ดผมปกติ แต่ข้อมูลพี่มันห่วยเอง"
+  },
+  {
+    "id": 1040,
+    "category": "logic",
+    "en": "It only happens on Fridays.",
+    "th": "มันจะพังเฉพาะวันศุกร์เท่านั้นแหละ"
+  },
+  {
+    "id": 1041,
+    "category": "frontend",
+    "en": "The CSS is fighting the Logic.",
+    "th": "ตัวแต่งหน้าจอมันตีกับตรรกะโปรแกรมครับ"
+  },
+  {
+    "id": 1042,
+    "category": "ai",
+    "en": "It’s an AI hallucination.",
+    "th": "สงสัย AI มันหลอนครับ"
+  },
+  {
+    "id": 1043,
+    "category": "server",
+    "en": "The server is tired.",
+    "th": "เซิร์ฟเวอร์มันเหนื่อยแล้ว"
+  },
+  {
+    "id": 1044,
+    "category": "human",
+    "en": "I wrote that code on a Monday morning.",
+    "th": "โค้ดนั้นเขียนเช้าวันจันทร์น่ะ"
+  },
+  {
+    "id": 1045,
+    "category": "logic",
+    "en": "It’s a heuristic failure.",
+    "th": "มันคือความล้มเหลวของการคาดเดาเชิงฮิวริสติก"
+  },
+  {
+    "id": 1046,
+    "category": "database",
+    "en": "I think the database needs a hug.",
+    "th": "ผมว่าฐานข้อมูลมันต้องการการกอด"
+  },
+  {
+    "id": 1047,
+    "category": "tools",
+    "en": "My IDE crashed and lost the fix.",
+    "th": "โปรแกรมเขียนโค้ดค้าง แล้วที่แก้ไว้หายหมดเลย"
+  },
+  {
+    "id": 1048,
+    "category": "external",
+    "en": "It’s a side effect of global warming.",
+    "th": "มันเป็นผลข้างเคียงของภาวะโลกร้อน"
+  },
+  {
+    "id": 1049,
+    "category": "system",
+    "en": "The bit-bucket is full.",
+    "th": "ถังเก็บขยะดิจิทัลมันเต็มครับ"
+  },
+  {
+    "id": 1050,
+    "category": "network",
+    "en": "Maybe it's the firewall.",
+    "th": "น่าจะเป็นที่ไฟล์วอลล์"
+  },
+  {
+    "id": 1051,
+    "category": "os",
+    "en": "It's a memory leak in the OS.",
+    "th": "OS น่าจะทำหน่วยความจำรั่ว"
+  },
+  {
+    "id": 1052,
+    "category": "hardware",
+    "en": "I need more RAM to fix this.",
+    "th": "ผมต้องได้ RAM เพิ่มถึงจะแก้ได้"
+  },
+  {
+    "id": 1053,
+    "category": "documentation",
+    "en": "The documentation is lying.",
+    "th": "คู่มือมันโกหก"
+  },
+  {
+    "id": 1054,
+    "category": "environment",
+    "en": "It's a browser plugin interference.",
+    "th": "ปลั๊กอินในบราวเซอร์มันกวน"
+  },
+  {
+    "id": 1055,
+    "category": "external",
+    "en": "I copied it from StackOverflow.",
+    "th": "ผมก๊อปมาจาก StackOverflow อะ"
+  },
+  {
+    "id": 1056,
+    "category": "data",
+    "en": "It's a character encoding issue.",
+    "th": "ปัญหาเรื่องการเข้ารหัสตัวอักษร"
+  },
+  {
+    "id": 1057,
+    "category": "hardware",
+    "en": "The laptop was too hot.",
+    "th": "โน้ตบุ๊กมันร้อนเกินไป"
+  },
+  {
+    "id": 1058,
+    "category": "design",
+    "en": "I was using a different font.",
+    "th": "ตอนนั้นผมใช้ฟอนต์อื่นเขียน"
+  },
+  {
+    "id": 1059,
+    "category": "logic",
+    "en": "It's a quantum bug.",
+    "th": "มันคือบั๊กควอนตัม จะหายไปเมื่อเราจ้องมองมัน"
+  },
+  {
+    "id": 1060,
+    "category": "api",
+    "en": "The API changed without notice.",
+    "th": "API เปลี่ยนแต่ไม่บอกกันเลย"
+  },
+  {
+    "id": 1061,
+    "category": "user",
+    "en": "I didn't think anyone would click that.",
+    "th": "ไม่คิดว่าจะมีคนไปกดตรงนั้น"
+  },
+  {
+    "id": 1062,
+    "category": "system",
+    "en": "It's a temporary glitch.",
+    "th": "มันแค่เอ๋อไปชั่วคราวน่ะ"
+  },
+  {
+    "id": 1063,
+    "category": "external",
+    "en": "The library is unstable.",
+    "th": "ไลบรารี่ตัวนี้มันไม่นิ่ง"
+  },
+  {
+    "id": 1064,
+    "category": "user",
+    "en": "It works for 99% of users.",
+    "th": "มันก็ใช้ได้กับคน 99% นะพี่"
+  },
+  {
+    "id": 1065,
+    "category": "process",
+    "en": "I was in the middle of an update.",
+    "th": "ผมกำลังอัปเดตอยู่พอดี"
+  },
+  {
+    "id": 1066,
+    "category": "hardware",
+    "en": "It's a hardware limitation.",
+    "th": "ข้อจำกัดทางฮาร์ดแวร์น่ะครับ"
+  },
+  {
+    "id": 1067,
+    "category": "management",
+    "en": "The requirements changed.",
+    "th": "ความต้องการเปลี่ยนไปเปลี่ยนมา"
+  },
+  {
+    "id": 1068,
+    "category": "testing",
+    "en": "I'm testing the error page.",
+    "th": "ผมกำลังเทสต์หน้า Error อยู่"
+  },
+  {
+    "id": 1069,
+    "category": "user",
+    "en": "It's a feature for power users.",
+    "th": "ฟีเจอร์สำหรับผู้ใช้ระดับโปรเท่านั้น"
+  },
+  {
+    "id": 1070,
+    "category": "logic",
+    "en": "The code is self-correcting.",
+    "th": "เดี๋ยวโค้ดมันก็ซ่อมตัวเองได้"
+  },
+  {
+    "id": 1071,
+    "category": "frontend",
+    "en": "It's a visual illusion.",
+    "th": "มันคือภาพลวงตาครับ"
+  },
+  {
+    "id": 1072,
+    "category": "server",
+    "en": "The load balancer is confused.",
+    "th": "ตัวกระจายโหลดมันกำลังงง"
+  },
+  {
+    "id": 1073,
+    "category": "build",
+    "en": "I forgot to run the build script.",
+    "th": "ลืมรันสคริปต์ Build น่ะ"
+  },
+  {
+    "id": 1074,
+    "category": "network",
+    "en": "The DNS is still propagating.",
+    "th": "DNS กำลังรออัปเดตทั่วโลกอยู่"
+  },
+  {
+    "id": 1075,
+    "category": "frontend",
+    "en": "It's a CSS specificity battle.",
+    "th": "CSS มันกำลังตีกันแย่งลำดับความสำคัญ"
+  },
+  {
+    "id": 1076,
+    "category": "database",
+    "en": "The database is in a bad mood.",
+    "th": "ฐานข้อมูลอารมณ์ไม่ดี"
+  },
+  {
+    "id": 1077,
+    "category": "human",
+    "en": "I think I need a vacation.",
+    "th": "ผมว่าผมต้องไปพักร้อนแล้วแหละ"
+  },
+  {
+    "id": 1078,
+    "category": "logic",
+    "en": "It’s an intermittent failure.",
+    "th": "มันเป็นปัญหาแบบมา ๆ หาย ๆ"
+  },
+  {
+    "id": 1079,
+    "category": "logic",
+    "en": "The logic is sound, the reality is wrong.",
+    "th": "ตรรกะผมถูกต้อง แต่ความจริงมันผิดเอง"
+  },
+  {
+    "id": 1080,
+    "category": "infrastructure",
+    "en": "It's a scaling issue.",
+    "th": "ปัญหาระบบสเกลไม่ได้"
+  },
+  {
+    "id": 1081,
+    "category": "external",
+    "en": "I used a new framework.",
+    "th": "ผมลองใช้เฟรมเวิร์กใหม่น่ะ"
+  },
+  {
+    "id": 1082,
+    "category": "external",
+    "en": "The npm packages are broken.",
+    "th": "แพ็กเกจ npm มันพัง"
+  },
+  {
+    "id": 1083,
+    "category": "human",
+    "en": "I haven't had enough caffeine.",
+    "th": "คาเฟอีนยังไม่ถึงน่ะครับ"
+  },
+  {
+    "id": 1084,
+    "category": "infrastructure",
+    "en": "It's a microservices communication error.",
+    "th": "ไมโครเซอร์วิสมันคุยกันไม่รู้เรื่อง"
+  },
+  {
+    "id": 1085,
+    "category": "server",
+    "en": "The disk space is low.",
+    "th": "พื้นที่ดิสก์ใกล้เต็ม"
+  },
+  {
+    "id": 1086,
+    "category": "process",
+    "en": "I'm using a beta version.",
+    "th": "ผมใช้เวอร์ชันเบต้าอยู่"
+  },
+  {
+    "id": 1087,
+    "category": "system",
+    "en": "It's a background process collision.",
+    "th": "กระบวนการหลังบ้านมันชนกัน"
+  },
+  {
+    "id": 1088,
+    "category": "human",
+    "en": "I'll look into it after lunch.",
+    "th": "เดี๋ยวหลังข้าวเที่ยงมาดูให้"
+  },
+  {
+    "id": 1089,
+    "category": "humor",
+    "en": "The code is shy.",
+    "th": "โค้ดมันอายคนครับ"
+  },
+  {
+    "id": 1090,
+    "category": "process",
+    "en": "It's a performance optimization.",
+    "th": "นี่คือการปรับจูนประสิทธิภาพ"
+  },
+  {
+    "id": 1091,
+    "category": "network",
+    "en": "The router is acting up.",
+    "th": "เราเตอร์มันรวน"
+  },
+  {
+    "id": 1092,
+    "category": "legacy",
+    "en": "It’s a legacy bug from 10 years ago.",
+    "th": "มันเป็นบั๊กมรดกจาก 10 ปีที่แล้ว"
+  },
+  {
+    "id": 1093,
+    "category": "infrastructure",
+    "en": "The cloud is down.",
+    "th": "ระบบคลาวด์ล่มครับ"
+  },
+  {
+    "id": 1094,
+    "category": "testing",
+    "en": "I was testing the rollback mechanism.",
+    "th": "ผมกำลังทดสอบระบบย้อนกลับน่ะ"
+  },
+  {
+    "id": 1095,
+    "category": "code",
+    "en": "The variable name was too long.",
+    "th": "ชื่อตัวแปรมันยาวเกินไป"
+  },
+  {
+    "id": 1096,
+    "category": "human",
+    "en": "It's a syntax error in the brain.",
+    "th": "สมองผม Error ไวยากรณ์ครับ"
+  },
+  {
+    "id": 1097,
+    "category": "human",
+    "en": "I need a better chair to code.",
+    "th": "ผมต้องได้เก้าอี้ที่ดีกว่านี้ถึงจะเขียนโค้ดได้"
+  },
+  {
+    "id": 1098,
+    "category": "science",
+    "en": "The gravity is different here.",
+    "th": "แรงโน้มถ่วงที่นี่มันไม่เท่ากัน"
+  },
+  {
+    "id": 1099,
+    "category": "human",
+    "en": "I’m just a junior at heart.",
+    "th": "ในใจผมยังเป็นแค่เด็กฝึกงานคนหนึ่งครับ"
+  }
+]
