@@ -9,7 +9,7 @@ env:
   REGISTRY: ghcr.io
   # จะได้ชื่อ image เป็น ghcr.io/username/repo-name
   IMAGE_NAME: ${{ github.repository }}
-    
+
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
@@ -20,6 +20,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Downcase Repo Name
+        run: |
+          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}" >> $GITHUB_ENV
 
       # จำเป็นสำหรับการ Build ข้ามสถาปัตยกรรม (x86 -> ARM64)
       - name: Set up QEMU
@@ -40,7 +44,7 @@ jobs:
         with:
           context: .
           push: true
-          platforms: linux/arm64 
+          platforms: linux/arm64
           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
           # ใช้ cache เพื่อให้การ build ครั้งต่อไปเร็วขึ้น
           cache-from: type=gha
@@ -50,6 +54,10 @@ jobs:
     needs: build-and-push
     runs-on: ubuntu-latest
     steps:
+      - name: Downcase Repo Name
+        run: |
+          echo "IMAGE_NAME=${GITHUB_REPOSITORY,,}" >> $GITHUB_ENV
+
       - name: Connect to Tailscale
         uses: tailscale/github-action@v2
         with:
